@@ -1,4 +1,4 @@
-# QR Code Calorie Tracker
+# QR Code Calorie Calculator
 
 ## Overview
 The **QR Code Calorie Tracker** is a React-based web application that scans a QR code representing a food dish and dynamically calculates its calorie count based on the constituent items. Users can modify the quantities of each item, and the total calorie count is updated in real time. A backend powered by Node.js and MongoDB manages the inventory, including CRUD operations for dishes and their calorie data.
