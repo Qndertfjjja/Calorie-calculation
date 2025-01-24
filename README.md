@@ -194,7 +194,7 @@ The application can be deployed using platforms like **Vercel**, **Netlify**, or
 
 ## Project Demo
 
-- **Live URL**: [Deployed Application](link-to-deployed-app)
+- **Live URL**: [Deployed Application](https://kcalfoodie.netlify.app/)
 - **Presentation Video**: [Group Presentation Video](link-to-google-drive-video)
 
 ---
